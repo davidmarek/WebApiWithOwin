@@ -6,7 +6,7 @@
       <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
     </ConfigurationSettings>
     <Certificates>
-      <Certificate name="Certificate1" thumbprint="" thumbprintAlgorithm="sha1" />
+      <Certificate name="Certificate1" thumbprint="6E378A91F54DF87D58FD56F231A307C2BD1AA89C" thumbprintAlgorithm="sha1" />
     </Certificates>
   </Role>
 </ServiceConfiguration>
